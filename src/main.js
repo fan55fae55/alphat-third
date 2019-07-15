@@ -101,7 +101,7 @@ class LINE extends LineAPI {
 => !whattime\n\
 => !yousound\n\
 => !youtube\n\
-\n\n# https://line.me/ti/p/~thirdz2  ^_^";
+\n\n#  https://line.me/ti/p/q0KXQ65KVo ^_^";
         var that = this;
     }
 
